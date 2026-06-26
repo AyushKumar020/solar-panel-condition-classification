@@ -278,9 +278,6 @@ The trained model can be exported to:
 
 #  Demo
 
-Add screenshots here:
-
-```
 <p align="center">
   <img src="assets/WhatsApp Image 2026-06-26 at 11.46.42 AM.jpeg" width="700">
 </p>
@@ -306,7 +303,7 @@ Add screenshots here:
 </p>
 
 
-```
+
 
 ---
 

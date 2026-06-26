@@ -25,6 +25,17 @@ The model is designed for autonomous solar panel cleaning robots and intelligent
 Instead of cleaning every solar panel indiscriminately, the system determines the appropriate action for each panel, improving operational efficiency while preventing damage to already faulty panels.
 
 ---
+#  Industry Project
+
+This project was developed as part of an **AI & Robotics Internship at Eythor Private Limited**, a company specializing in intelligent robotics solutions for large-scale solar power plants.
+
+The project contributes to **Eyto**, an Autonomous Solar Panel Cleaning Robot, where the objective is to enable intelligent decision-making through computer vision. The developed deep learning model classifies the surface condition of solar panels, allowing the robot to determine whether a panel should be cleaned, inspected, or skipped.
+
+**Company:** Eythor Private Limited  
+**Product:** Eyto – Automated Solar Panel Cleaning Robot  
+**Project Type:** Industry Internship Project
+
+---
 
 #  Features
 
@@ -273,6 +284,32 @@ The trained model can be exported to:
 - NumPy
 - ONNX
 - Kaggle GPU
+
+---
+
+#  Project Integration
+
+This model serves as the **Surface Defect Detection Module** of the autonomous solar panel cleaning robot.
+
+### Workflow
+
+```text
+RGB Camera
+      │
+      ▼
+YOLOv8 Classification Model
+      │
+      ▼
+Panel Condition Classification
+      │
+      ▼
+Decision Engine
+      │
+ ┌────┼─────────────┐
+ │    │             │
+ ▼    ▼             ▼
+Clean Skip     Maintenance Alert
+```
 
 ---
 

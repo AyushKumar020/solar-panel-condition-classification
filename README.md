@@ -281,11 +281,31 @@ The trained model can be exported to:
 Add screenshots here:
 
 ```
-results.png
+<p align="center">
+  <img src="assets/WhatsApp Image 2026-06-26 at 11.46.42 AM.jpeg" width="700">
+</p>
 
-confusion_matrix.png
+<p align="center">
+  <img src="assets/WhatsApp Image 2026-06-26 at 11.46.43 AM (1).jpeg" width="700">
+</p>
 
-prediction_examples.png
+<p align="center">
+  <img src="assets/WhatsApp Image 2026-06-26 at 11.46.43 AM (2).jpeg" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/WhatsApp Image 2026-06-26 at 11.46.43 AM (3).jpeg" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/WhatsApp Image 2026-06-26 at 11.46.43 AM (4).jpeg" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/WhatsApp Image 2026-06-26 at 11.46.43 AM.jpeg" width="700">
+</p>
+
+
 ```
 
 ---

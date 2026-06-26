@@ -83,7 +83,7 @@ This project introduces an intelligent vision system capable of identifying the 
 Dataset Used:
 
 **Solar Panel Images – Clean and Faulty**
-
+- Source: https://www.kaggle.com/datasets/pythonafroz/solar-panel-images
 - Total Images: **792**
 - Image Type: RGB
 - Classes: **6**

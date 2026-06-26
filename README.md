@@ -94,7 +94,7 @@ This project introduces an intelligent vision system capable of identifying the 
 Dataset Used:
 
 **Solar Panel Images – Clean and Faulty**
-
+- Source: https://www.kaggle.com/datasets/pythonafroz/solar-panel-images
 - Total Images: **792**
 - Image Type: RGB
 - Classes: **6**
@@ -111,12 +111,12 @@ Dataset Split
 
 | Class | Robot Action |
 |------------|----------------------------|
-| Clean | No Action |
+| Clean | No  Action |
 | Dusty | Clean Panel |
 | Bird-drop | Clean Panel |
 | Snow-Covered | Remove Snow |
 | Physical-Damage | Flag for Inspection |
-| Electrical-Damage | Stop Robot & Alert |
+| Electrical-Damage | Stop the Robot & Alert |
 
 ---
 

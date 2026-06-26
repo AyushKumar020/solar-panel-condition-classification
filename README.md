@@ -100,12 +100,12 @@ Dataset Split
 
 | Class | Robot Action |
 |------------|----------------------------|
-| Clean | No Action |
+| Clean | No  Action |
 | Dusty | Clean Panel |
 | Bird-drop | Clean Panel |
 | Snow-Covered | Remove Snow |
 | Physical-Damage | Flag for Inspection |
-| Electrical-Damage | Stop Robot & Alert |
+| Electrical-Damage | Stop the Robot & Alert |
 
 ---
 
